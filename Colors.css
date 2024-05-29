@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+@import url('https://fonts.google.com/specimen/Major+Mono+Display');
 
 
 body {
@@ -7,7 +7,7 @@ body {
 
 h1 {
    text-align: center;
-   font-family: 'Gaegu', cursive;
+   font-family: 'Mono', cursive;
 }
 
 img {
@@ -20,7 +20,7 @@ img {
 .button {
     display: block;
     background-color: rgb(241, 128, 126);
-    font-family: 'Gaegu', cursive;
+    font-family: 'Mono', cursive;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1%;
