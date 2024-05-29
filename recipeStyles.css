@@ -1,21 +1,21 @@
 @import url('https://fonts.google.com/specimen/Major+Mono+Display');
 
 body {
-    background-color: rgb(158, 153, 221);
+    background-color: rgb(219, 211, 201);
 }
 
 h1 {
     text-align: center;
-    font-family: 'Gaegu', cursive;
+    font-family: 'Mono', cursive;
 }
 
 h2 {
     text-align: center;
-    font-family: 'Gaegu', cursive;
+    font-family: 'Mono', cursive;
 }
 
 h3{
-    font-family: 'Gaegu', cursive;
+    font-family: 'Mono', cursive;
 }
 
 img {
